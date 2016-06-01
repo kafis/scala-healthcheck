@@ -1,0 +1,2 @@
+# scala-healthcheck
+POC library
